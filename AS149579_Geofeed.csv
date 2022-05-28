@@ -1,0 +1,6 @@
+#RFC8805,,,,
+#For AS149579,,,,
+,,,,
+"#prefix,country_code,region_code,city,postal",,,,
+2400:80a0::/32,IN,IN-MP,Khandwa,450001
+103.188.48.0/23,IN,IN-MP,Khandwa,450001
